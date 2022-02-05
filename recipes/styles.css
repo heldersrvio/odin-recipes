@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    font-family: 'Rowdies', cursive;
+    font-size: 2.5rem;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+img {
+    width: 50%;
+    height: auto;
+}
+
+ul, ol, li {
+    padding: 0;
+    list-style-type: none;
+}
+
+#chocolate-body {
+    background-color: rgb(175, 106, 57);
+}
+
+#bread-body {
+    background-color: rgb(241, 190, 47);
+}
+
+#lobster-body {
+    background-color: rgb(255, 113, 70);
+}
